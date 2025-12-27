@@ -2,6 +2,6 @@
 
 !.gitignore
 !Makefile
-!Readme.md
 !*.rs
+!*.md
 !*/
